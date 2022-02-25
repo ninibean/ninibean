@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am a student at North Carolina A&T State University! Aggie Pride! 💙💛
 
 ### My Github Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninibean)](https://github.com/anuraghazra/github-readme-stats)
+NOTE: The "Top Languanges" widget is **not** an indicator of my skills. This is simply displaying which programming languages occur the most on my particular GitHub page.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninibean&layout=compact" />
 
 ### Note: I plan on updating my Github README frequently, so check back for updates! :)
 ### Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ninibean}.${ninibean})

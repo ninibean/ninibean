@@ -1,4 +1,4 @@
-### Hi there! I'm Niara! 👋
+### Hi there! I'm Niara! 👋🏾
 
 <!--
 **ninibean/ninibean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,12 @@ I am a computer science student and a creative. I am really interested in web de
 I like to work in the interrection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
 ### More About Me
+- 🔭 I’m currently working on ** my senior computer science project ** .
+- 🌱 I’m currently learning ** React Web development, responsive web design, and AR/VR development **
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am a student at North Carolina A&T State University! Aggie Pride! 💙💛
 
 ### My Github Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Note: I plan on updating my Github README frequently, so check back for updates! :)

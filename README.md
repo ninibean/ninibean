@@ -28,4 +28,4 @@ I like to work in the interrection of art and technology! There is so many pract
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ### Note: I plan on updating my Github README frequently, so check back for updates! :)
-##### Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ninibean}.${ninibean})

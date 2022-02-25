@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Niara! 👋
 
 <!--
 **ninibean/ninibean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a computer science student and a creative. I am really interested in web development, UX/UI design, program management, and sooo much more.
+
+I like to work in the interrection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
+
+## More About Me
+
+## My Github Stats
+
+# Note: I plan on updating my Github README frequently, so check back for updates! :)

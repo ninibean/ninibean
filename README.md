@@ -19,8 +19,8 @@ I am a computer science student and a creative. I am really interested in web de
 
 I like to work in the interrection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
-## More About Me
+### More About Me
 
-## My Github Stats
+### My Github Stats
 
-# Note: I plan on updating my Github README frequently, so check back for updates! :)
+### Note: I plan on updating my Github README frequently, so check back for updates! :)

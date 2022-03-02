@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💻 I am a computer science student and a creative. I am really interested in web development, UX/UI design, program management, and sooo much more.
 
-🎨 I like to work in the interrection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
+🎨 I like to work in the intersection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
 ### More About Me
 - 🔭 I’m currently working on **my senior computer science project** .

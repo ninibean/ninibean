@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋🏾 Hello! Welcome to my little corner of the internet.
+
 💻 I am a creative technologist. I am really interested in web development, UX/UI design, program management, and sooo much more.
 
 🎨 I like to work in the intersection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
 ### More About Me
-- 🔭 I’m currently working on **reviewing data stuctures, algorithms, and time complexity concepts** .
-- 🌱 I’m currently learning **React Web development, responsive web design, and AR/VR development**
+- 🔭 I’m currently working on **creative coding** .
+- 🌱 I’m currently learning **p5.JS**
 - ⚡ Fun fact: I am a recent graduate from North Carolina A&T State University! Aggie Pride! 💙💛
 
 ### My Github Stats

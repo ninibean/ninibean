@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 ### My Github Stats
 NOTE: The "Top Languanges" widget is **not** an indicator of my skills. This is simply displaying which programming languages occur the most on my particular GitHub page.
 
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninibean&layout=compact" />
 
 ### Note: I plan on updating my Github README frequently, so check back for updates! :)

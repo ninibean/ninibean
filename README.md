@@ -24,13 +24,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **p5.JS**
 - ⚡ Fun fact: I am a recent graduate from North Carolina A&T State University! Aggie Pride! 💙💛
 
-### My Github Stats
-NOTE: The "Top Languanges" widget is **not** an indicator of my skills. This is simply displaying which programming languages occur the most on my particular GitHub page.
-
-<!--
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ninibean&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
--->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninibean&layout=compact" />
-
-### Note: I plan on updating my Github README frequently, so check back for updates! :)
 ### Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ninibean}.${ninibean})

@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 🎨 Working at the intersection of art and technology is what I live for. There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
 ### More About Me
-- 🔭 I’m currently working on **my Human-Centered Design and Human-Centered AI Masters Degree. ** .
+- 🔭 I’m currently working on **my Human-Centered Design and Human-Centered AI Masters Degree.** .
 - 🌱 I’m currently learning **usable security, machine learning, and cybersecurity** .
-- ⚡ Fun fact: I am a proud graduate from North Carolina A&T State University! Aggie Pride! 💙💛
+- ⚡ Fun fact: **I am a proud graduate from North Carolina A&T State University! Aggie Pride! 💙💛**
 
 ### Thanks for stopping by! Enjoy a cookie 🍪

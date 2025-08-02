@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 I am a technical program manage whose heart is with web development and UX design. I have previous experience as a software engineer, a mentor, and a community organizer.
+💻 I am a technical program manager who's hopelessly fascinated with human-computer design (HCI). I see a unique opportunity to solve some of the world's most pressing socio-technical problem through HCI. Previously a software engineer, currently a mentor and student.
 
-🎨 I like to work in the intersection of art and technology! There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
+🎨 Working at the intersection of art and technology is what I live for. There is so many practical skills you learn in the creative process (even coding is creative in a way), and I plan on using the creative process in my work to leave a positive impact on the world!
 
 ### More About Me
-- 🔭 I’m currently working on **my masters :)** .
-- 🌱 I’m currently learning **UX Research fundamentals and Human-AI interaction** .
+- 🔭 I’m currently working on **my Human-Centered Design and Human-Centered AI Masters Degree. ** .
+- 🌱 I’m currently learning **usable security, machine learning, and cybersecurity** .
 - ⚡ Fun fact: I am a proud graduate from North Carolina A&T State University! Aggie Pride! 💙💛
 
-### Thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ninibean}.${ninibean})
+### Thanks for stopping by! Enjoy a cookie 🍪
